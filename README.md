@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/praneeth simon" target="blank"><img src="https://img.shields.io/twitter/follow/praneeth simon?logo=twitter&style=for-the-badge" alt="praneeth simon" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, AWS**
+- 🌱 I’m currently learning **PostgreSQL , Django**
 
 - 📫 How to reach me **praneethsimon2@gmail.com**
 
