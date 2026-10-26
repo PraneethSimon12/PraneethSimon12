@@ -7,7 +7,7 @@
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/praneeth-simon-katta-33361a1b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/praneeth-simon-katta-33361a1b4](https://www.linkedin.com/in/praneethsimonkatta/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/praneeth_simon"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:praneethsimon2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -18,9 +18,8 @@
 
 ### 🧑‍💻 About me
 
-- 🎓 Computer Science undergraduate at **Thapar University**, Patiala
-- 🔭 Currently building **[Paytm Pakka](#-currently-building)** for the *Paytm Build for India AI Hackathon* (Mumbai)
-- 🌱 Learning **PostgreSQL** and **Django**
+- 🎓 Backend Developer, Riggle
+- 🔭 Currently building **at Riggle* (Mumbai)
 - 💬 Ask me about Python, backend APIs, and putting small AI models to practical use
 - 📫 Reach me at **praneethsimon2@gmail.com**
 
